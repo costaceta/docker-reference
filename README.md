@@ -1,5 +1,5 @@
 # Docker reference
-List of docker commands
+This is an stydy of basic concepts of docker to use and create constainers for many applications.
 
 ## What is a container?
 Simply put, a container is simply another process on your machine that has been isolated from all other processes on the host machine.
